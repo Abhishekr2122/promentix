@@ -1,0 +1,42 @@
+.main {
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: calc(100vh - 93.5px);
+}
+
+.main-text-container {
+  border: 1px solid red;
+  height: auto;
+  width: fit-content;
+}
+.main-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50%;
+}
+
+.main-heading {
+  font-size: 35px;
+  font-weight: 600;
+  margin: 0px;
+}
+
+.sub-heading {
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.main-btn {
+  padding: 12px;
+  background-color: transparent;
+  border-radius: 6px;
+  border: 1.9px solid #0597ee;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 17px;
+  width: fit-content;
+  text-decoration: underline;
+}
