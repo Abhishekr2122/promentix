@@ -1,0 +1,6 @@
+.work {
+  display: flex;
+  border: 1px solid red;
+  padding: 12px;
+  gap: 2px;
+}
