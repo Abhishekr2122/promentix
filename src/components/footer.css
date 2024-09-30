@@ -1,0 +1,32 @@
+.footer {
+  border: 1px solid maroon;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer-heading {
+  margin: 0px;
+}
+
+.footer-content-container {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 6px;
+}
+
+.footer-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid yellow;
+}
+
+.footer-list-item {
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid red;
+}

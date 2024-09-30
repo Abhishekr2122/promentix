@@ -1,0 +1,10 @@
+.aboutus {
+  border: 1px solid orange;
+}
+
+.aboutus-heading {
+  font-size: 30px;
+  text-decoration: underline;
+  text-decoration-color: #0597ee;
+  text-align: center;
+}

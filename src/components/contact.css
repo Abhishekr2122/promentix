@@ -1,0 +1,29 @@
+.contact {
+  border: 1px solid brown;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-heading {
+  font-size: 30px;
+  text-decoration: underline;
+  text-decoration-color: #0597ee;
+  text-align: center;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 8px;
+}
+
+.input {
+  padding: 6px;
+}
+
+.contact-form-btn {
+  padding: 6px;
+  cursor: pointer;
+}

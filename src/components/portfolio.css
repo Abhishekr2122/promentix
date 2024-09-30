@@ -1,0 +1,10 @@
+.portfolio {
+  border: 1px solid yellow;
+}
+
+.portfolio-heading {
+  text-decoration: underline;
+  text-decoration-color: #0597ee;
+  text-align: center;
+  font-size: 30px;
+}

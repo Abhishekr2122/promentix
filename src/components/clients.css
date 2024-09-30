@@ -1,0 +1,10 @@
+.clients {
+  border: 1px solid green;
+}
+
+.clients-heading {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #0597ee;
+}
