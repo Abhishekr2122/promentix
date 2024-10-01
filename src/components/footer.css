@@ -1,11 +1,16 @@
 .footer {
-  border: 1px solid maroon;
+  /* border: 1px solid maroon; */
   display: flex;
   justify-content: space-evenly;
+  /* background-color: #0597ee; */
+  background-color: black;
+  color: white;
 }
 
 .footer-heading {
-  margin: 0px;
+  margin-bottom: 0px;
+  text-decoration: underline;
+  text-decoration-color: #0557ee;
 }
 
 .footer-content-container {
@@ -22,11 +27,12 @@
   gap: 6px;
   margin: 0px;
   padding: 0px;
-  border: 1px solid yellow;
+
+  /* border: 1px solid yellow; */
 }
 
 .footer-list-item {
   margin: 0px;
   padding: 0px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }

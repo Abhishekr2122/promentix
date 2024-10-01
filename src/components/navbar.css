@@ -9,6 +9,8 @@
 }
 
 .list-item {
-  color: black;
+  /* text-decoration: underline; */
+  /* text-decoration-color: #0557ee; */
+  /* color: #0557ee; */
   cursor: pointer;
 }

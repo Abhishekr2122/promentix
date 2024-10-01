@@ -1,29 +1,49 @@
 .contact {
-  border: 1px solid brown;
+  /* border: 1px solid brown; */
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border-bottom: 0.9px solid rgba(211, 211, 211, 0.296);
 }
 
 .contact-heading {
   font-size: 30px;
   text-decoration: underline;
-  text-decoration-color: #0597ee;
+  text-decoration-color: #0557ee;
   text-align: center;
+  margin: 0px;
+}
+
+.contact-image {
+  height: 40%;
+  width: 45%;
 }
 
 .contact-form {
   display: flex;
   flex-direction: column;
-  width: 50%;
+  width: 40%;
   gap: 8px;
 }
 
 .input {
-  padding: 6px;
+  padding: 10px;
+  border-radius: 2px;
 }
 
 .contact-form-btn {
-  padding: 6px;
+  padding: 12px;
+  background-color: transparent;
+  border-radius: 6px;
+  border: 1.9px solid #0557ee;
   cursor: pointer;
+  font-weight: 500;
+  font-size: 15px;
+  width: fit-content;
+  text-decoration: underline;
+  color: white;
 }

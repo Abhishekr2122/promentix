@@ -1,10 +1,11 @@
 .work {
   /* border: 1px solid orange; */
+  /* background-color: #0557ee09; */
 }
 
 .work-heading {
   text-align: center;
   text-decoration: underline;
-  text-decoration-color: #0597ee;
+  text-decoration-color: #0557ee;
   font-size: 30px;
 }

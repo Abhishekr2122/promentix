@@ -17,21 +17,13 @@ export default function Main() {
           alt="no-image"
           className="main-image"
         />
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "space-evenly",
-            height: "70%",
-            padding: "22px",
-          }}
-        >
+        <div className="main-text-container">
           <h2 className="main-heading">
             Elevating Brands Through{" "}
             <span
               style={{
                 textDecoration: "underline",
-                textDecorationColor: "#0597ee",
+                textDecorationColor: "#0557ee",
               }}
             >
               Creativity
@@ -40,7 +32,7 @@ export default function Main() {
             <span
               style={{
                 textDecoration: "underline",
-                textDecorationColor: "#0597ee",
+                textDecorationColor: "#0557ee",
               }}
             >
               Innovation
@@ -50,7 +42,7 @@ export default function Main() {
             Crafting immersive websites, impactful ads, and social media
             strategies tailored for growth
           </h4>
-          <button className="main-btn">Explore Our Work</button>
+          <button className="btn">Explore Our Work</button>
         </div>
       </div>
     </div>
